@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex4MealApp</string>
+    <string-array name="Meals">
+        <item>Burger</item>
+        <item>Sandwich</item>
+        <item>Omlet</item>
+    </string-array>
+</resources>
